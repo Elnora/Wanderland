@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: ec998674c03a40c4a8efcfeeb777557a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 736940316525930675
+    second: flyingbirds_220x124_0
+  - first:
+      213: 1589208806929891979
+    second: flyingbirds_220x124_1
+  - first:
+      213: 8115652677490736149
+    second: flyingbirds_220x124_2
+  - first:
+      213: -7768906826897843548
+    second: flyingbirds_220x124_3
+  - first:
+      213: 1465202024143085560
+    second: flyingbirds_220x124_4
+  - first:
+      213: -7545276186503230164
+    second: flyingbirds_220x124_5
+  - first:
+      213: 3331389569290232011
+    second: flyingbirds_220x124_6
+  - first:
+      213: -7714670399598246355
+    second: flyingbirds_220x124_7
+  - first:
+      213: 8672135229477796997
+    second: flyingbirds_220x124_8
+  - first:
+      213: -5789256975091166359
+    second: flyingbirds_220x124_9
+  - first:
+      213: -1607044477163141767
+    second: flyingbirds_220x124_10
+  - first:
+      213: -2982428962310706966
+    second: flyingbirds_220x124_11
+  - first:
+      213: -513891331336669655
+    second: flyingbirds_220x124_12
+  - first:
+      213: -48750080827481591
+    second: flyingbirds_220x124_13
+  - first:
+      213: 2363590392107709448
+    second: flyingbirds_220x124_14
+  - first:
+      213: 487581106182561026
+    second: flyingbirds_220x124_15
+  - first:
+      213: 5960593316694177295
+    second: flyingbirds_220x124_16
+  - first:
+      213: -784000661843044798
+    second: flyingbirds_220x124_17
+  - first:
+      213: 1988163778165433013
+    second: flyingbirds_220x124_18
+  - first:
+      213: -2686009987581848877
+    second: flyingbirds_220x124_19
+  - first:
+      213: -3377180965371656544
+    second: flyingbirds_220x124_20
+  - first:
+      213: 6686834161106620522
+    second: flyingbirds_220x124_21
+  - first:
+      213: 8024344318365675723
+    second: flyingbirds_220x124_22
+  - first:
+      213: 7602453687966769807
+    second: flyingbirds_220x124_23
+  - first:
+      213: -5565704663882319626
+    second: flyingbirds_220x124_24
+  - first:
+      213: 3140753293733576795
+    second: flyingbirds_220x124_25
+  - first:
+      213: -199460047259094842
+    second: flyingbirds_220x124_26
+  - first:
+      213: 7004864081672544939
+    second: flyingbirds_220x124_27
+  - first:
+      213: -2996390874942514508
+    second: flyingbirds_220x124_28
+  - first:
+      213: -857410961824747516
+    second: flyingbirds_220x124_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flyingbirds_220x124_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 496
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98953eed6d08ec408ddec486f1c9072
+      internalID: 736940316525930675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_1
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 496
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be11de1bcb38d084e8cfa365f01eb155
+      internalID: 1589208806929891979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_2
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 496
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c0b17defb854c4896c822b18a85c7e
+      internalID: 8115652677490736149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_3
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 496
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5810445c59a0584eab87344b421c033
+      internalID: -7768906826897843548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 496
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b381956c9f12546b5606a0659d6233
+      internalID: 1465202024143085560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_5
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 496
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866c683ba1f487c4281ade989ec6fe77
+      internalID: -7545276186503230164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09188be0a0b4d52448e3b3422e28c094
+      internalID: 3331389569290232011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 372
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3198fd224cdc7c0499a41bdbfabee20d
+      internalID: -7714670399598246355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_8
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 372
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557193403728672459ff0146325fb127
+      internalID: 8672135229477796997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_9
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 372
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158e468b1e7b08546a8b17547e4ddecc
+      internalID: -5789256975091166359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_10
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 372
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f5d9475dab42443acd1442bfbbbe73
+      internalID: -1607044477163141767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 372
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9f50f44621332458c1c76400266556
+      internalID: -2982428962310706966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 248
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81158c5513a86c54db2e73166ec5d749
+      internalID: -513891331336669655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_13
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 248
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a8864ed21b4c041b6ed87a9836b7f4
+      internalID: -48750080827481591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_14
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 248
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0b0057eb2359249a10118789a9eb90
+      internalID: 2363590392107709448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_15
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 248
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833d074bd1f6e044189bb164e11e1638
+      internalID: 487581106182561026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_16
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 248
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d156bd1a6bcebf45b603f0892dcb25e
+      internalID: 5960593316694177295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_17
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 248
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef7a6987060494a9ff169228a487cd
+      internalID: -784000661843044798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71427dd1172a0964fbc80886e9d8fc6d
+      internalID: 1988163778165433013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 124
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60603b2f3438f42468111b4e970a0b04
+      internalID: -2686009987581848877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_20
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 124
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3739d8f4d57164d4398ecee34080cd4c
+      internalID: -3377180965371656544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_21
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 124
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61bd488f5d957640bb84e97b00ecc57
+      internalID: 6686834161106620522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 124
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2dde2b859c5a34b886a99934f3cc7c
+      internalID: 8024344318365675723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_23
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 124
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb39aba5189bf4683fdbfe872e2002
+      internalID: 7602453687966769807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b890a4201bd47ea43830777aedb6e74b
+      internalID: -5565704663882319626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_25
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 0
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258a8417c3910f045a12839b01e190c2
+      internalID: 3140753293733576795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_26
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d702844fbcfe57546bd334d2d56d0076
+      internalID: -199460047259094842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_27
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da74ba765a47eb4d851b51a992122ad
+      internalID: 7004864081672544939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_28
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 0
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38792001568925f45bd7be1683ed6dc6
+      internalID: -2996390874942514508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flyingbirds_220x124_29
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 220
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8893d2158bc284cbba2d2339f15f8a
+      internalID: -857410961824747516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e7a7f620f993bd140acb2cfd77972dac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
