@@ -1,43 +1,114 @@
 fileFormatVersion: 2
 guid: a7923ea4a3a50e944811831ef35f4653
 ScriptedImporter:
-  fileIDToRecycleName:
-    100000: bird_GO/bird_GO
-    100002: bird_GO/bird_GO/bg
-    100006: bird_GO/bird_GO/root/l shoulder
-    100008: bird_GO/bird_GO/root/l shoulder/l wing
-    100010: bird_GO/bird_GO/root/l shoulder/l wing/l wing2
-    100012: bird_GO/bird_GO/root/r shoulder
-    100014: bird_GO/bird_GO/root/r shoulder/r wing
-    100016: bird_GO/bird_GO/root/r shoulder/r wing/r wing2
-    100018: bird_GO/bird_GO/root/l shoulder/l wing/l wing2/l wing2_2
-    100020: bird_GO/bird_GO/root/r shoulder/r wing/r wing2/r wing2_1
-    100022: bird_GO/bird_GO/bg copy
-    100024: bird_GO/bird_GO/root
-    100026: bird_GO/bird_GO/root/l eye
-    100028: bird_GO/bird_GO/root/r eye
-    400000: bird_GO/bird_GO/Transform
-    400002: bird_GO/bird_GO/bg/Transform
-    400006: bird_GO/bird_GO/root/l shoulder/Transform
-    400008: bird_GO/bird_GO/root/l shoulder/l wing/Transform
-    400010: bird_GO/bird_GO/root/l shoulder/l wing/l wing2/Transform
-    400012: bird_GO/bird_GO/root/r shoulder/Transform
-    400014: bird_GO/bird_GO/root/r shoulder/r wing/Transform
-    400016: bird_GO/bird_GO/root/r shoulder/r wing/r wing2/Transform
-    400018: bird_GO/bird_GO/root/l shoulder/l wing/l wing2/l wing2_2/Transform
-    400020: bird_GO/bird_GO/root/r shoulder/r wing/r wing2/r wing2_1/Transform
-    400022: bird_GO/bird_GO/bg copy/Transform
-    400024: bird_GO/bird_GO/root/Transform
-    400026: bird_GO/bird_GO/root/l eye/Transform
-    400028: bird_GO/bird_GO/root/r eye/Transform
-    2800000: bird
-    11400000: bird_GO/bird_GO/bg/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    21200000: bird_GO/bird_GO/bg/SpriteRenderer
-    21200004: bird_GO/bird_GO/bg copy/SpriteRenderer
-    21300002: bg
-    21300004: bg copy
-    100100000: bird_GO
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: bird_GO/bird_GO
+  - first:
+      1: 100002
+    second: bird_GO/bird_GO/bg
+  - first:
+      1: 100006
+    second: bird_GO/bird_GO/root/l shoulder
+  - first:
+      1: 100008
+    second: bird_GO/bird_GO/root/l shoulder/l wing
+  - first:
+      1: 100010
+    second: bird_GO/bird_GO/root/l shoulder/l wing/l wing2
+  - first:
+      1: 100012
+    second: bird_GO/bird_GO/root/r shoulder
+  - first:
+      1: 100014
+    second: bird_GO/bird_GO/root/r shoulder/r wing
+  - first:
+      1: 100016
+    second: bird_GO/bird_GO/root/r shoulder/r wing/r wing2
+  - first:
+      1: 100018
+    second: bird_GO/bird_GO/root/l shoulder/l wing/l wing2/l wing2_2
+  - first:
+      1: 100020
+    second: bird_GO/bird_GO/root/r shoulder/r wing/r wing2/r wing2_1
+  - first:
+      1: 100022
+    second: bird_GO/bird_GO/bg copy
+  - first:
+      1: 100024
+    second: bird_GO/bird_GO/root
+  - first:
+      1: 100026
+    second: bird_GO/bird_GO/root/l eye
+  - first:
+      1: 100028
+    second: bird_GO/bird_GO/root/r eye
+  - first:
+      4: 400000
+    second: bird_GO/bird_GO/Transform
+  - first:
+      4: 400002
+    second: bird_GO/bird_GO/bg/Transform
+  - first:
+      4: 400006
+    second: bird_GO/bird_GO/root/l shoulder/Transform
+  - first:
+      4: 400008
+    second: bird_GO/bird_GO/root/l shoulder/l wing/Transform
+  - first:
+      4: 400010
+    second: bird_GO/bird_GO/root/l shoulder/l wing/l wing2/Transform
+  - first:
+      4: 400012
+    second: bird_GO/bird_GO/root/r shoulder/Transform
+  - first:
+      4: 400014
+    second: bird_GO/bird_GO/root/r shoulder/r wing/Transform
+  - first:
+      4: 400016
+    second: bird_GO/bird_GO/root/r shoulder/r wing/r wing2/Transform
+  - first:
+      4: 400018
+    second: bird_GO/bird_GO/root/l shoulder/l wing/l wing2/l wing2_2/Transform
+  - first:
+      4: 400020
+    second: bird_GO/bird_GO/root/r shoulder/r wing/r wing2/r wing2_1/Transform
+  - first:
+      4: 400022
+    second: bird_GO/bird_GO/bg copy/Transform
+  - first:
+      4: 400024
+    second: bird_GO/bird_GO/root/Transform
+  - first:
+      4: 400026
+    second: bird_GO/bird_GO/root/l eye/Transform
+  - first:
+      4: 400028
+    second: bird_GO/bird_GO/root/r eye/Transform
+  - first:
+      28: 2800000
+    second: bird
+  - first:
+      114: 11400000
+    second: bird_GO/bird_GO/bg/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      212: 21200000
+    second: bird_GO/bird_GO/bg/SpriteRenderer
+  - first:
+      212: 21200004
+    second: bird_GO/bird_GO/bg copy/SpriteRenderer
+  - first:
+      213: 21300002
+    second: bg
+  - first:
+      213: 21300004
+    second: bg copy
+  - first:
+      1001: 100100000
+    second: bird_GO
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -108,6 +179,7 @@ ScriptedImporter:
       width: 466
       height: 145
     spriteID: 9f4994994b3e89f4f94041be2a831cb3
+    internalID: 0
     spriteBone:
     - name: bone_1
       position: {x: 222.62254, y: 53.929897, z: 0}
@@ -1018,6 +1090,7 @@ ScriptedImporter:
       width: 384
       height: 65
     spriteID: 8578f923bb61eb444aea7e7ed3b0b0d0
+    internalID: 0
     spriteBone:
     - name: root
       position: {x: 188.26112, y: 7.921936, z: 0}
@@ -1825,6 +1898,7 @@ ScriptedImporter:
       width: 394
       height: 60
     spriteID: f5ecd6df38d60ad4f912befd3cd82d83
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []

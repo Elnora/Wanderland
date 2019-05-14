@@ -1,9 +1,12 @@
 fileFormatVersion: 2
 guid: 748ba7a6131701a4c9e3d9bfac42ccc3
 ScriptedImporter:
-  fileIDToRecycleName:
-    2800002: Cloud1
+  internalIDToNameTable:
+  - first:
+      28: 2800002
+    second: Cloud1
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -74,6 +77,7 @@ ScriptedImporter:
       width: 512
       height: 512
     spriteID: 53de304140cc26846aae3cf70cef1fe8
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -97,6 +101,7 @@ ScriptedImporter:
       width: 428
       height: 270
     spriteID: 09fde1d2a1f49e442ac0e2285b499c77
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -118,6 +123,7 @@ ScriptedImporter:
       width: 406
       height: 248
     spriteID: dad45873d23cf7646a361088bfa87370
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []

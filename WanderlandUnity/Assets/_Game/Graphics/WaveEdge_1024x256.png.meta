@@ -1,0 +1,937 @@
+fileFormatVersion: 2
+guid: f1865d9ef29c8de45b381f92e748cebe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5032688370156043323
+    second: WaveEdge_1024x256_0
+  - first:
+      213: 2939762091299560627
+    second: WaveEdge_1024x256_1
+  - first:
+      213: 3268357583525943637
+    second: WaveEdge_1024x256_2
+  - first:
+      213: 7973706419332973457
+    second: WaveEdge_1024x256_3
+  - first:
+      213: 1990877531535305142
+    second: WaveEdge_1024x256_4
+  - first:
+      213: -1538416224863687962
+    second: WaveEdge_1024x256_5
+  - first:
+      213: 9189286167349789915
+    second: WaveEdge_1024x256_6
+  - first:
+      213: -901538903103858067
+    second: WaveEdge_1024x256_7
+  - first:
+      213: 4534182064706531772
+    second: WaveEdge_1024x256_8
+  - first:
+      213: -5233927741333573451
+    second: WaveEdge_1024x256_9
+  - first:
+      213: -2740854460499635475
+    second: WaveEdge_1024x256_10
+  - first:
+      213: -5909440544536934362
+    second: WaveEdge_1024x256_11
+  - first:
+      213: -8129396654532898186
+    second: WaveEdge_1024x256_12
+  - first:
+      213: -3769982192305820165
+    second: WaveEdge_1024x256_13
+  - first:
+      213: 1533253233735510758
+    second: WaveEdge_1024x256_14
+  - first:
+      213: -2333306186865542064
+    second: WaveEdge_1024x256_15
+  - first:
+      213: 3530319736109736652
+    second: WaveEdge_1024x256_16
+  - first:
+      213: -7018328996627011723
+    second: WaveEdge_1024x256_17
+  - first:
+      213: -5865214943143110319
+    second: WaveEdge_1024x256_18
+  - first:
+      213: -4705643675777447481
+    second: WaveEdge_1024x256_19
+  - first:
+      213: -6360962040258673620
+    second: WaveEdge_1024x256_20
+  - first:
+      213: -8805836332608244985
+    second: WaveEdge_1024x256_21
+  - first:
+      213: 7696043102028993615
+    second: WaveEdge_1024x256_22
+  - first:
+      213: 3701728810800002531
+    second: WaveEdge_1024x256_23
+  - first:
+      213: -5387794187418001493
+    second: WaveEdge_1024x256_24
+  - first:
+      213: -2306588243840263386
+    second: WaveEdge_1024x256_25
+  - first:
+      213: 7743930310601421978
+    second: WaveEdge_1024x256_26
+  - first:
+      213: 3063116557954835049
+    second: WaveEdge_1024x256_27
+  - first:
+      213: 4528247438558508049
+    second: WaveEdge_1024x256_28
+  - first:
+      213: -2732544811700852407
+    second: WaveEdge_1024x256_29
+  - first:
+      213: -1031223695852658112
+    second: WaveEdge_1024x256_30
+  - first:
+      213: -3710217367126881485
+    second: WaveEdge_1024x256_31
+  - first:
+      213: 6523616520808774364
+    second: WaveEdge_1024x256_32
+  - first:
+      213: -7125943091853033268
+    second: WaveEdge_1024x256_33
+  - first:
+      213: 2796508037882384636
+    second: WaveEdge_1024x256_34
+  - first:
+      213: 3634252008264585843
+    second: WaveEdge_1024x256_35
+  - first:
+      213: 2628193014737173547
+    second: WaveEdge_1024x256_36
+  - first:
+      213: -2532354389845333800
+    second: WaveEdge_1024x256_37
+  - first:
+      213: -4470543368985809624
+    second: WaveEdge_1024x256_38
+  - first:
+      213: 7204840389351158452
+    second: WaveEdge_1024x256_39
+  - first:
+      213: 6268434736539682938
+    second: WaveEdge_1024x256_40
+  - first:
+      213: 302884427069293177
+    second: WaveEdge_1024x256_41
+  - first:
+      213: 1409057244477953980
+    second: WaveEdge_1024x256_42
+  - first:
+      213: 5585456018635915275
+    second: WaveEdge_1024x256_43
+  - first:
+      213: 6428951324201333138
+    second: WaveEdge_1024x256_44
+  - first:
+      213: 2170288969206190318
+    second: WaveEdge_1024x256_45
+  - first:
+      213: -1981244261897517682
+    second: WaveEdge_1024x256_46
+  - first:
+      213: -5245083847292618318
+    second: WaveEdge_1024x256_47
+  - first:
+      213: -9128108962693309181
+    second: WaveEdge_1024x256_48
+  - first:
+      213: 1575641310302713503
+    second: WaveEdge_1024x256_49
+  - first:
+      213: 3524698931576808334
+    second: WaveEdge_1024x256_50
+  - first:
+      213: 6674746602432221389
+    second: WaveEdge_1024x256_51
+  - first:
+      213: -2740510273680258503
+    second: WaveEdge_1024x256_52
+  - first:
+      213: 4487308268145926559
+    second: WaveEdge_1024x256_53
+  - first:
+      213: 6216581705503225597
+    second: WaveEdge_1024x256_54
+  - first:
+      213: 8512452235303351212
+    second: WaveEdge_1024x256_55
+  - first:
+      213: 4454608855472307991
+    second: WaveEdge_1024x256_56
+  - first:
+      213: -8977770298615260139
+    second: WaveEdge_1024x256_57
+  - first:
+      213: 5250557254613361182
+    second: WaveEdge_1024x256_58
+  - first:
+      213: 6895867978780537960
+    second: WaveEdge_1024x256_59
+  - first:
+      213: 388095800623427153
+    second: WaveEdge_1024x256_60
+  - first:
+      213: -6626307285947211861
+    second: WaveEdge_1024x256_61
+  - first:
+      213: -917040226444124372
+    second: WaveEdge_1024x256_62
+  - first:
+      213: 5737935506725293101
+    second: WaveEdge_1024x256_63
+  - first:
+      213: -1479868951196778859
+    second: WaveEdge_1024x256_64
+  - first:
+      213: -6392521342942403402
+    second: WaveEdge_1024x256_65
+  - first:
+      213: 6482836306320645873
+    second: WaveEdge_1024x256_66
+  - first:
+      213: -1932224936862515114
+    second: WaveEdge_1024x256_67
+  - first:
+      213: -5382321007179857583
+    second: WaveEdge_1024x256_68
+  - first:
+      213: -1682621178431865151
+    second: WaveEdge_1024x256_69
+  - first:
+      213: -3648468708515329178
+    second: WaveEdge_1024x256_70
+  - first:
+      213: -1220513138253744062
+    second: WaveEdge_1024x256_71
+  - first:
+      213: 3268962301660450371
+    second: WaveEdge_1024x256_72
+  - first:
+      213: -4858273345756461364
+    second: WaveEdge_1024x256_73
+  - first:
+      213: -437414126412487535
+    second: WaveEdge_1024x256_74
+  - first:
+      213: -4430810330250129950
+    second: WaveEdge_1024x256_75
+  - first:
+      213: -3627312722427558050
+    second: WaveEdge_1024x256_76
+  - first:
+      213: -4188335284224164520
+    second: WaveEdge_1024x256_77
+  - first:
+      213: -5184416378159299360
+    second: WaveEdge_1024x256_78
+  - first:
+      213: -3243847740906481653
+    second: WaveEdge_1024x256_79
+  - first:
+      213: 8962361660531929144
+    second: WaveEdge_1024x256_80
+  - first:
+      213: 141715200536486054
+    second: WaveEdge_1024x256_81
+  - first:
+      213: -3673001329978347807
+    second: WaveEdge_1024x256_82
+  - first:
+      213: -7397957834068675112
+    second: WaveEdge_1024x256_83
+  - first:
+      213: 1551493602913717379
+    second: WaveEdge_1024x256_84
+  - first:
+      213: -5016302744374416953
+    second: WaveEdge_1024x256_85
+  - first:
+      213: -174190558183115542
+    second: WaveEdge_1024x256_86
+  - first:
+      213: -6783699552510466985
+    second: WaveEdge_1024x256_87
+  - first:
+      213: -512667044862241231
+    second: WaveEdge_1024x256_88
+  - first:
+      213: 1857054947043725137
+    second: WaveEdge_1024x256_89
+  - first:
+      213: -3978273348788267000
+    second: WaveEdge_1024x256_90
+  - first:
+      213: -8185778611005799239
+    second: WaveEdge_1024x256_91
+  - first:
+      213: 782907015165885231
+    second: WaveEdge_1024x256_92
+  - first:
+      213: -1423982729887804299
+    second: WaveEdge_1024x256_93
+  - first:
+      213: -428224285189666246
+    second: WaveEdge_1024x256_94
+  - first:
+      213: 7536075804725158890
+    second: WaveEdge_1024x256_95
+  - first:
+      213: 5161960210129763322
+    second: WaveEdge_1024x256_96
+  - first:
+      213: 4671127228028700494
+    second: WaveEdge_1024x256_97
+  - first:
+      213: 9069752185110628277
+    second: WaveEdge_1024x256_98
+  - first:
+      213: 6920027621246257654
+    second: WaveEdge_1024x256_99
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd6ec33bbf0a944e8ecbe1575b0cc7d
+      internalID: 5032688370156043323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120348ce0c73b4a44ac94d50d66f2f03
+      internalID: 2939762091299560627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af836b84f25cc74091d805937510462
+      internalID: 3268357583525943637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fd8c5855f6e644c9511d99cebfee4c
+      internalID: 7973706419332973457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_4
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1024
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408162bd41e6add4a9234951ce8f0b12
+      internalID: 1990877531535305142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f73f91d1e0a64f960973a0c6b5cff
+      internalID: -1538416224863687962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_6
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f88caf6c051cc448dee0339711dc0a
+      internalID: 9189286167349789915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_7
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e1f76811b890546ae631f95e430724
+      internalID: -901538903103858067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_8
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 768
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392f4f092140e93428b3854e01872c70
+      internalID: 4534182064706531772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_9
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 768
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4bb63d19f2b6c645856dc583d5c0e42
+      internalID: -5233927741333573451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7a6ede670b35c479d668d71c766a6b
+      internalID: -2740854460499635475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_11
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f835fdb360e0b7479ec97daf84c2bf7
+      internalID: -5909440544536934362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349a534a42976b3469f303daf6ab42fd
+      internalID: -8129396654532898186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_13
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be68be2446345f468cd638777c5d9af
+      internalID: -3769982192305820165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_14
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 512
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ad35ef680e71d4ca014f188a7cf7a1
+      internalID: 1533253233735510758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04c140f850dfc445abb7326216aada6
+      internalID: -2333306186865542064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_16
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06057cc3e286c4340a77a2e0c2c98a5b
+      internalID: 3530319736109736652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_17
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465464c6da4c9d4428a753c268e0141f
+      internalID: -7018328996627011723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_18
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 256
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0187fa7a31ae81b4aadab81c0984a7f2
+      internalID: -5865214943143110319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_19
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 256
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba8b9b607f44e74b839eaa485af9ed4
+      internalID: -4705643675777447481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071c50beb0214524ebe3daffc73ba2d7
+      internalID: -6360962040258673620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b70bb1e2e6c4e47b294840b39fcaef
+      internalID: -8805836332608244985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ef308c97d2aaa4a9cec252b45e7877
+      internalID: 7696043102028993615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_23
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9827fa9374a16448b1d85a197dd0f14
+      internalID: 3701728810800002531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WaveEdge_1024x256_24
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 1024
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4be773c08956e14d9a0aedbb269fdfd
+      internalID: -5387794187418001493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cd90c0d19166895488741b8a8c263428
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,9 +1,12 @@
 fileFormatVersion: 2
 guid: e8a6f94385cdeae438254148c30a03ed
 ScriptedImporter:
-  fileIDToRecycleName:
-    2800000: Ground
+  internalIDToNameTable:
+  - first:
+      28: 2800000
+    second: Ground
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -74,6 +77,7 @@ ScriptedImporter:
       width: 1024
       height: 512
     spriteID: 9f9b237d28be2b04dbaed6ac90e1ce1e
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -97,6 +101,7 @@ ScriptedImporter:
       width: 1024
       height: 20
     spriteID: ed02d86fea97f9c46bb869ecdb45e972
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -118,6 +123,7 @@ ScriptedImporter:
       width: 1024
       height: 104
     spriteID: 812cf6f8da7b2274b90d07c3f8d928e9
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []

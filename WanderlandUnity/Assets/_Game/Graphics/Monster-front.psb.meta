@@ -1,70 +1,195 @@
 fileFormatVersion: 2
 guid: ec66b529a6e5c384e8657e00112efa43
 ScriptedImporter:
-  fileIDToRecycleName:
-    100000: Monster-front_GO/Monster-front_GO
-    100002: Monster-front_GO/Monster-front_GO/body
-    100004: Monster-front_GO/Monster-front_GO/l eye
-    100006: Monster-front_GO/Monster-front_GO/l eye closed
-    100008: Monster-front_GO/Monster-front_GO/l pupil
-    100010: Monster-front_GO/Monster-front_GO/Layer 1
-    100012: Monster-front_GO/Monster-front_GO/mouth flat
-    100014: Monster-front_GO/Monster-front_GO/r eye
-    100016: Monster-front_GO/Monster-front_GO/r eye closed
-    100018: Monster-front_GO/Monster-front_GO/r pupil
-    100020: Monster-front_GO/Monster-front_GO/bone_1
-    100022: Monster-front_GO/Monster-front_GO/bone_1/bone_2
-    100024: Monster-front_GO/Monster-front_GO/bone_1/bone_2/bone_3
-    100026: Monster-front_GO/Monster-front_GO/bone_1/bone_4
-    100028: Monster-front_GO/Monster-front_GO/bone_1/bone_4/bone_5
-    100030: Monster-front_GO/Monster-front_GO/bone_1/bone_6
-    100032: Monster-front_GO/Monster-front_GO/bone_1/bone_6/bone_7
-    400000: Monster-front_GO/Monster-front_GO/Transform
-    400002: Monster-front_GO/Monster-front_GO/body/Transform
-    400004: Monster-front_GO/Monster-front_GO/l eye/Transform
-    400006: Monster-front_GO/Monster-front_GO/l eye closed/Transform
-    400008: Monster-front_GO/Monster-front_GO/l pupil/Transform
-    400010: Monster-front_GO/Monster-front_GO/Layer 1/Transform
-    400012: Monster-front_GO/Monster-front_GO/mouth flat/Transform
-    400014: Monster-front_GO/Monster-front_GO/r eye/Transform
-    400016: Monster-front_GO/Monster-front_GO/r eye closed/Transform
-    400018: Monster-front_GO/Monster-front_GO/r pupil/Transform
-    400020: Monster-front_GO/Monster-front_GO/bone_1/Transform
-    400022: Monster-front_GO/Monster-front_GO/bone_1/bone_2/Transform
-    400024: Monster-front_GO/Monster-front_GO/bone_1/bone_2/bone_3/Transform
-    400026: Monster-front_GO/Monster-front_GO/bone_1/bone_4/Transform
-    400028: Monster-front_GO/Monster-front_GO/bone_1/bone_4/bone_5/Transform
-    400030: Monster-front_GO/Monster-front_GO/bone_1/bone_6/Transform
-    400032: Monster-front_GO/Monster-front_GO/bone_1/bone_6/bone_7/Transform
-    2800000: Monster-front
-    11400000: Monster-front_GO/Monster-front_GO/body/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400002: Monster-front_GO/Monster-front_GO/l eye/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400004: Monster-front_GO/Monster-front_GO/l eye closed/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400006: Monster-front_GO/Monster-front_GO/l pupil/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400008: Monster-front_GO/Monster-front_GO/mouth flat/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400010: Monster-front_GO/Monster-front_GO/r eye/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400012: Monster-front_GO/Monster-front_GO/r eye closed/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    11400014: Monster-front_GO/Monster-front_GO/r pupil/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
-    21200000: Monster-front_GO/Monster-front_GO/body/SpriteRenderer
-    21200002: Monster-front_GO/Monster-front_GO/l eye/SpriteRenderer
-    21200004: Monster-front_GO/Monster-front_GO/l eye closed/SpriteRenderer
-    21200006: Monster-front_GO/Monster-front_GO/l pupil/SpriteRenderer
-    21200008: Monster-front_GO/Monster-front_GO/Layer 1/SpriteRenderer
-    21200010: Monster-front_GO/Monster-front_GO/mouth flat/SpriteRenderer
-    21200012: Monster-front_GO/Monster-front_GO/r eye/SpriteRenderer
-    21200014: Monster-front_GO/Monster-front_GO/r eye closed/SpriteRenderer
-    21200016: Monster-front_GO/Monster-front_GO/r pupil/SpriteRenderer
-    21300000: Layer 1
-    21300002: mouth flat
-    21300004: l eye closed
-    21300006: r eye closed
-    21300008: r pupil
-    21300010: r eye
-    21300012: l pupil
-    21300014: l eye
-    21300016: body
-    100100000: Monster-front_GO
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Monster-front_GO/Monster-front_GO
+  - first:
+      1: 100002
+    second: Monster-front_GO/Monster-front_GO/body
+  - first:
+      1: 100004
+    second: Monster-front_GO/Monster-front_GO/l eye
+  - first:
+      1: 100006
+    second: Monster-front_GO/Monster-front_GO/l eye closed
+  - first:
+      1: 100008
+    second: Monster-front_GO/Monster-front_GO/l pupil
+  - first:
+      1: 100010
+    second: Monster-front_GO/Monster-front_GO/Layer 1
+  - first:
+      1: 100012
+    second: Monster-front_GO/Monster-front_GO/mouth flat
+  - first:
+      1: 100014
+    second: Monster-front_GO/Monster-front_GO/r eye
+  - first:
+      1: 100016
+    second: Monster-front_GO/Monster-front_GO/r eye closed
+  - first:
+      1: 100018
+    second: Monster-front_GO/Monster-front_GO/r pupil
+  - first:
+      1: 100020
+    second: Monster-front_GO/Monster-front_GO/bone_1
+  - first:
+      1: 100022
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_2
+  - first:
+      1: 100024
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_2/bone_3
+  - first:
+      1: 100026
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_4
+  - first:
+      1: 100028
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_4/bone_5
+  - first:
+      1: 100030
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_6
+  - first:
+      1: 100032
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_6/bone_7
+  - first:
+      4: 400000
+    second: Monster-front_GO/Monster-front_GO/Transform
+  - first:
+      4: 400002
+    second: Monster-front_GO/Monster-front_GO/body/Transform
+  - first:
+      4: 400004
+    second: Monster-front_GO/Monster-front_GO/l eye/Transform
+  - first:
+      4: 400006
+    second: Monster-front_GO/Monster-front_GO/l eye closed/Transform
+  - first:
+      4: 400008
+    second: Monster-front_GO/Monster-front_GO/l pupil/Transform
+  - first:
+      4: 400010
+    second: Monster-front_GO/Monster-front_GO/Layer 1/Transform
+  - first:
+      4: 400012
+    second: Monster-front_GO/Monster-front_GO/mouth flat/Transform
+  - first:
+      4: 400014
+    second: Monster-front_GO/Monster-front_GO/r eye/Transform
+  - first:
+      4: 400016
+    second: Monster-front_GO/Monster-front_GO/r eye closed/Transform
+  - first:
+      4: 400018
+    second: Monster-front_GO/Monster-front_GO/r pupil/Transform
+  - first:
+      4: 400020
+    second: Monster-front_GO/Monster-front_GO/bone_1/Transform
+  - first:
+      4: 400022
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_2/Transform
+  - first:
+      4: 400024
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_2/bone_3/Transform
+  - first:
+      4: 400026
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_4/Transform
+  - first:
+      4: 400028
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_4/bone_5/Transform
+  - first:
+      4: 400030
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_6/Transform
+  - first:
+      4: 400032
+    second: Monster-front_GO/Monster-front_GO/bone_1/bone_6/bone_7/Transform
+  - first:
+      28: 2800000
+    second: Monster-front
+  - first:
+      114: 11400000
+    second: Monster-front_GO/Monster-front_GO/body/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400002
+    second: Monster-front_GO/Monster-front_GO/l eye/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400004
+    second: Monster-front_GO/Monster-front_GO/l eye closed/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400006
+    second: Monster-front_GO/Monster-front_GO/l pupil/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400008
+    second: Monster-front_GO/Monster-front_GO/mouth flat/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400010
+    second: Monster-front_GO/Monster-front_GO/r eye/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400012
+    second: Monster-front_GO/Monster-front_GO/r eye closed/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      114: 11400014
+    second: Monster-front_GO/Monster-front_GO/r pupil/MonoBehaviour-UnityEngine.Experimental.U2D.Animation.SpriteSkin
+  - first:
+      212: 21200000
+    second: Monster-front_GO/Monster-front_GO/body/SpriteRenderer
+  - first:
+      212: 21200002
+    second: Monster-front_GO/Monster-front_GO/l eye/SpriteRenderer
+  - first:
+      212: 21200004
+    second: Monster-front_GO/Monster-front_GO/l eye closed/SpriteRenderer
+  - first:
+      212: 21200006
+    second: Monster-front_GO/Monster-front_GO/l pupil/SpriteRenderer
+  - first:
+      212: 21200008
+    second: Monster-front_GO/Monster-front_GO/Layer 1/SpriteRenderer
+  - first:
+      212: 21200010
+    second: Monster-front_GO/Monster-front_GO/mouth flat/SpriteRenderer
+  - first:
+      212: 21200012
+    second: Monster-front_GO/Monster-front_GO/r eye/SpriteRenderer
+  - first:
+      212: 21200014
+    second: Monster-front_GO/Monster-front_GO/r eye closed/SpriteRenderer
+  - first:
+      212: 21200016
+    second: Monster-front_GO/Monster-front_GO/r pupil/SpriteRenderer
+  - first:
+      213: 21300000
+    second: Layer 1
+  - first:
+      213: 21300002
+    second: mouth flat
+  - first:
+      213: 21300004
+    second: l eye closed
+  - first:
+      213: 21300006
+    second: r eye closed
+  - first:
+      213: 21300008
+    second: r pupil
+  - first:
+      213: 21300010
+    second: r eye
+  - first:
+      213: 21300012
+    second: l pupil
+  - first:
+      213: 21300014
+    second: l eye
+  - first:
+      213: 21300016
+    second: body
+  - first:
+      1001: 100100000
+    second: Monster-front_GO
   externalObjects: {}
+  serializedVersion: 2
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -135,6 +260,7 @@ ScriptedImporter:
       width: 0
       height: 0
     spriteID: 
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -158,6 +284,7 @@ ScriptedImporter:
       width: 0
       height: 0
     spriteID: e99936d7aab9abe4b8c70d970ce17901
+    internalID: 0
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -179,6 +306,7 @@ ScriptedImporter:
       width: 220
       height: 19
     spriteID: 9926f547ae639334aa1d798a69579619
+    internalID: 0
     spriteBone:
     - name: bone_2
       position: {x: 108.04587, y: -36.88513, z: 0}
@@ -2081,6 +2209,7 @@ ScriptedImporter:
       width: 106
       height: 15
     spriteID: ab7ce0708f08ee94dbab2257bd87ecec
+    internalID: 0
     spriteBone:
     - name: bone_1
       position: {x: 116.56317, y: -275.00006, z: 0}
@@ -3485,6 +3614,7 @@ ScriptedImporter:
       width: 90
       height: 16
     spriteID: 579c807ef15757a47b691ae4e829663e
+    internalID: 0
     spriteBone:
     - name: bone_1
       position: {x: -41.43683, y: -279.00006, z: 0}
@@ -4613,6 +4743,7 @@ ScriptedImporter:
       width: 35
       height: 33
     spriteID: 140af4270fdfcf54cadc598dd81bec50
+    internalID: 0
     spriteBone:
     - name: bone_1
       position: {x: -61.43683, y: -271.00006, z: 0}
@@ -4913,6 +5044,7 @@ ScriptedImporter:
       width: 102
       height: 94
     spriteID: 27fb201164267e64591ab0520a45b861
+    internalID: 0
     spriteBone:
     - name: bone_1
       position: {x: -25.436829, y: -236.00006, z: 0}
@@ -5484,6 +5616,7 @@ ScriptedImporter:
       width: 38
       height: 32
     spriteID: 9f98bac4bf496ac48ba878ec8323fa6b
+    internalID: 0
     spriteBone:
     - name: bone_1
       position: {x: 92.56317, y: -266.00006, z: 0}
@@ -5905,6 +6038,7 @@ ScriptedImporter:
       width: 100
       height: 84
     spriteID: 0eed51c31f6545244b8862567a8feb35
+    internalID: 0
     spriteBone:
     - name: bone_1
       position: {x: 121.56317, y: -232.00006, z: 0}
@@ -6494,6 +6628,7 @@ ScriptedImporter:
       width: 411
       height: 704
     spriteID: 665a776ba5dbddb4d95a9f55afae2275
+    internalID: 0
     spriteBone:
     - name: bone_7
       position: {x: 111.26923, y: -0.000043037733, z: 0}
