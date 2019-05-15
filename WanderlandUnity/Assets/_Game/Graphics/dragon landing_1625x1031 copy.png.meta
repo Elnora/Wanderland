@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 69f5aea126e4582449126239809e2dff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2496404943208203739
+    second: dragon landing_1625x1031 copy_0
+  - first:
+      213: -8588651682649343642
+    second: dragon landing_1625x1031 copy_1
+  - first:
+      213: 727473270483474335
+    second: dragon landing_1625x1031 copy_2
+  - first:
+      213: -3162691462951208931
+    second: dragon landing_1625x1031 copy_3
+  - first:
+      213: -7531834048392369241
+    second: dragon landing_1625x1031 copy_4
+  - first:
+      213: -7701300595796695645
+    second: dragon landing_1625x1031 copy_5
+  - first:
+      213: 9062698129376966113
+    second: dragon landing_1625x1031 copy_6
+  - first:
+      213: 286166029932644100
+    second: dragon landing_1625x1031 copy_7
+  - first:
+      213: 5364516598039442961
+    second: dragon landing_1625x1031 copy_8
+  - first:
+      213: 6475222645182316236
+    second: dragon landing_1625x1031 copy_9
+  - first:
+      213: 5256325892971630906
+    second: dragon landing_1625x1031 copy_10
+  - first:
+      213: 5465511505847358586
+    second: dragon landing_1625x1031 copy_11
+  - first:
+      213: 8033998497902214775
+    second: dragon landing_1625x1031 copy_12
+  - first:
+      213: -4612957959815931501
+    second: dragon landing_1625x1031 copy_13
+  - first:
+      213: -9009727489975241459
+    second: dragon landing_1625x1031 copy_14
+  - first:
+      213: 4554919225520026612
+    second: dragon landing_1625x1031 copy_15
+  - first:
+      213: -8980334205317625910
+    second: dragon landing_1625x1031 copy_16
+  - first:
+      213: -6431983803909609136
+    second: dragon landing_1625x1031 copy_17
+  - first:
+      213: 6421899636761522301
+    second: dragon landing_1625x1031 copy_18
+  - first:
+      213: 6956295877601388874
+    second: dragon landing_1625x1031 copy_19
+  - first:
+      213: -3719342588797605219
+    second: dragon landing_1625x1031 copy_20
+  - first:
+      213: -6748821821208798840
+    second: dragon landing_1625x1031 copy_21
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4124
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e7138b05515c14cb86c3cbc996cc59
+      internalID: 2496404943208203739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_1
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 4124
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa5bbcbac4bce846baafe4c7ba9a191
+      internalID: -8588651682649343642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_2
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 4124
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a2c337e3abfd7449ccfe84b96d024f
+      internalID: 727473270483474335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_3
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 4124
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e687e443cae50b546b9fbe30a0ba9323
+      internalID: -3162691462951208931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_4
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 4124
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc455961a1bd4a418cf7240e81c2866
+      internalID: -7531834048392369241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3093
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1664357813ef289479c3da6dd16b2177
+      internalID: -7701300595796695645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_6
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 3093
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98696bfbcbc7fcb499a0b6aa49f8fad6
+      internalID: 9062698129376966113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_7
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 3093
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649e8c9fad27eff429e8e79fda7b58be
+      internalID: 286166029932644100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_8
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 3093
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23eb6898acb2ace48ad79cc746a860a2
+      internalID: 5364516598039442961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_9
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3093
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90051cb74131864c825bf13cfd39ef0
+      internalID: 6475222645182316236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2062
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efda9fe739ef074438a77f31407af557
+      internalID: 5256325892971630906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_11
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 2062
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9ff788a1561794094847fd27abadb5
+      internalID: 5465511505847358586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_12
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 2062
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12d141246467ef4d87f6551aafa00cc
+      internalID: 8033998497902214775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_13
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 2062
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffbfc8f7fbaa554684b9b9116a1b3e6
+      internalID: -4612957959815931501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_14
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2062
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d32ca27817025b4bb6f1f35c8129cb9
+      internalID: -9009727489975241459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1031
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cadfb68d94bd047a7efd9211aaa195
+      internalID: 4554919225520026612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_16
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 1031
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5606dec37ff5f46a95fb2782098d17
+      internalID: -8980334205317625910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_17
+      rect:
+        serializedVersion: 2
+        x: 3250
+        y: 1031
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43536d5712487b4288e5a7d680076cc
+      internalID: -6431983803909609136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_18
+      rect:
+        serializedVersion: 2
+        x: 4875
+        y: 1031
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a9b77c450e6f439daffec6e676803
+      internalID: 6421899636761522301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_19
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1031
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885c4e1e8f0f9af48854b71418499436
+      internalID: 6956295877601388874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5193a8e184e5852459a85a34d0ef9263
+      internalID: -3719342588797605219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1625x1031 copy_21
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 0
+        width: 1625
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd174ce2d87235b49917bf93e0230d7a
+      internalID: -6748821821208798840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 83be53618a2d6d54d8cf18b9f67bfb45
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -399,7 +399,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1024
+        y: 256
         width: 1024
         height: 256
       alignment: 0
@@ -409,7 +409,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efd6ec33bbf0a944e8ecbe1575b0cc7d
+      spriteID: b729717597cdb8e45b5664e0f763ccd0
       internalID: 5032688370156043323
       vertices: []
       indices: 
@@ -420,7 +420,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 1024
-        y: 1024
+        y: 256
         width: 1024
         height: 256
       alignment: 0
@@ -430,7 +430,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 120348ce0c73b4a44ac94d50d66f2f03
+      spriteID: a3757a373f043ed43bb5722d0376c674
       internalID: 2939762091299560627
       vertices: []
       indices: 
@@ -441,7 +441,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 2048
-        y: 1024
+        y: 256
         width: 1024
         height: 256
       alignment: 0
@@ -451,7 +451,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6af836b84f25cc74091d805937510462
+      spriteID: 4cffd8862e61e204a977a59660c2c0c2
       internalID: 3268357583525943637
       vertices: []
       indices: 
@@ -461,8 +461,8 @@ TextureImporter:
       name: WaveEdge_1024x256_3
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 1024
+        x: 0
+        y: 0
         width: 1024
         height: 256
       alignment: 0
@@ -472,7 +472,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b9fd8c5855f6e644c9511d99cebfee4c
+      spriteID: 757835f12f98101499a7875bddf7a74f
       internalID: 7973706419332973457
       vertices: []
       indices: 
@@ -482,8 +482,8 @@ TextureImporter:
       name: WaveEdge_1024x256_4
       rect:
         serializedVersion: 2
-        x: 4096
-        y: 1024
+        x: 1024
+        y: 0
         width: 1024
         height: 256
       alignment: 0
@@ -493,7 +493,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 408162bd41e6add4a9234951ce8f0b12
+      spriteID: 81faf3695b7a52340b2e70981fee81ed
       internalID: 1990877531535305142
       vertices: []
       indices: 
@@ -503,8 +503,8 @@ TextureImporter:
       name: WaveEdge_1024x256_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 768
+        x: 2048
+        y: 0
         width: 1024
         height: 256
       alignment: 0
@@ -514,407 +514,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e46f73f91d1e0a64f960973a0c6b5cff
+      spriteID: 4eb751db7bba3e84cb6ed8d8321bde61
       internalID: -1538416224863687962
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_6
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 768
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 32f88caf6c051cc448dee0339711dc0a
-      internalID: 9189286167349789915
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_7
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 768
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 80e1f76811b890546ae631f95e430724
-      internalID: -901538903103858067
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_8
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 768
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 392f4f092140e93428b3854e01872c70
-      internalID: 4534182064706531772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_9
-      rect:
-        serializedVersion: 2
-        x: 4096
-        y: 768
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4bb63d19f2b6c645856dc583d5c0e42
-      internalID: -5233927741333573451
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 512
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ed7a6ede670b35c479d668d71c766a6b
-      internalID: -2740854460499635475
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_11
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 512
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f835fdb360e0b7479ec97daf84c2bf7
-      internalID: -5909440544536934362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_12
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 512
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 349a534a42976b3469f303daf6ab42fd
-      internalID: -8129396654532898186
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_13
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 512
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0be68be2446345f468cd638777c5d9af
-      internalID: -3769982192305820165
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_14
-      rect:
-        serializedVersion: 2
-        x: 4096
-        y: 512
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a5ad35ef680e71d4ca014f188a7cf7a1
-      internalID: 1533253233735510758
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_15
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 256
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d04c140f850dfc445abb7326216aada6
-      internalID: -2333306186865542064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_16
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 256
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06057cc3e286c4340a77a2e0c2c98a5b
-      internalID: 3530319736109736652
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_17
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 256
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 465464c6da4c9d4428a753c268e0141f
-      internalID: -7018328996627011723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_18
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 256
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0187fa7a31ae81b4aadab81c0984a7f2
-      internalID: -5865214943143110319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_19
-      rect:
-        serializedVersion: 2
-        x: 4096
-        y: 256
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7ba8b9b607f44e74b839eaa485af9ed4
-      internalID: -4705643675777447481
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_20
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 071c50beb0214524ebe3daffc73ba2d7
-      internalID: -6360962040258673620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_21
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b5b70bb1e2e6c4e47b294840b39fcaef
-      internalID: -8805836332608244985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_22
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 0
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68ef308c97d2aaa4a9cec252b45e7877
-      internalID: 7696043102028993615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_23
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 0
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b9827fa9374a16448b1d85a197dd0f14
-      internalID: 3701728810800002531
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WaveEdge_1024x256_24
-      rect:
-        serializedVersion: 2
-        x: 4096
-        y: 0
-        width: 1024
-        height: 256
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4be773c08956e14d9a0aedbb269fdfd
-      internalID: -5387794187418001493
       vertices: []
       indices: 
       edges: []
