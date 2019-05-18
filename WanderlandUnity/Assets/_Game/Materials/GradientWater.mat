@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Gradient
-  m_Shader: {fileID: -6465566751694194690, guid: cbdf14bd0fc08c946965027a02167a94,
+  m_Name: GradientWater
+  m_Shader: {fileID: -6465566751694194690, guid: fba1e61da00d77f4db01410cbccb3d5b,
     type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
@@ -21,11 +21,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_1DFAF2CA:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: fe15cd990f6a818419da9ff41c193f97, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_AA7BE23:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: fe15cd990f6a818419da9ff41c193f97, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_D4D43055:
@@ -73,12 +73,12 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Boolean_DB80AC9D: 0
+    - Boolean_DB80AC9D: 1
     - Vector1_3A7C91B7: 1
-    - Vector1_3ED05E69: -0.37
-    - Vector1_490F72F5: 0
+    - Vector1_3ED05E69: -1.31
+    - Vector1_490F72F5: 0.43
     - Vector1_56875465: 0
-    - Vector1_BE890405: 1.49
+    - Vector1_BE890405: -3.47
     - Vector1_D51913B: 1
     - _BumpScale: 1
     - _Cutoff: 0.5
@@ -97,7 +97,7 @@ Material:
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - Color_69383120: {r: 0.55291027, g: 0.6605779, b: 0.6698113, a: 0}
-    - Color_7D15B091: {r: 0.2322891, g: 0.5287144, b: 0.5660378, a: 0}
+    - Color_69383120: {r: 0.13737096, g: 0.5943396, b: 0.57046807, a: 1}
+    - Color_7D15B091: {r: 0.44980422, g: 0.68491995, b: 0.7169812, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
