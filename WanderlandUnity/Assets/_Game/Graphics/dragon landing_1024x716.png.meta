@@ -1,73 +1,85 @@
 fileFormatVersion: 2
-guid: 69f5aea126e4582449126239809e2dff
+guid: dd73a40bc2f464c40a5f0066e80ca455
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2496404943208203739
-    second: dragon landing_1625x1031 copy_0
+      213: 2208147314559205761
+    second: dragon landing_1024x716_0
   - first:
-      213: -8588651682649343642
-    second: dragon landing_1625x1031 copy_1
+      213: 6552247810620379591
+    second: dragon landing_1024x716_1
   - first:
-      213: 727473270483474335
-    second: dragon landing_1625x1031 copy_2
+      213: -8037199938736039259
+    second: dragon landing_1024x716_2
   - first:
-      213: -3162691462951208931
-    second: dragon landing_1625x1031 copy_3
+      213: 5235769204365851440
+    second: dragon landing_1024x716_3
   - first:
-      213: -7531834048392369241
-    second: dragon landing_1625x1031 copy_4
+      213: 6511046126069454397
+    second: dragon landing_1024x716_4
   - first:
-      213: -7701300595796695645
-    second: dragon landing_1625x1031 copy_5
+      213: -3223756100328157807
+    second: dragon landing_1024x716_5
   - first:
-      213: 9062698129376966113
-    second: dragon landing_1625x1031 copy_6
+      213: -6421857949914811448
+    second: dragon landing_1024x716_6
   - first:
-      213: 286166029932644100
-    second: dragon landing_1625x1031 copy_7
+      213: 8330923497113711814
+    second: dragon landing_1024x716_7
   - first:
-      213: 5364516598039442961
-    second: dragon landing_1625x1031 copy_8
+      213: 3612037058090593903
+    second: dragon landing_1024x716_8
   - first:
-      213: 6475222645182316236
-    second: dragon landing_1625x1031 copy_9
+      213: 1788294710785631100
+    second: dragon landing_1024x716_9
   - first:
-      213: 5256325892971630906
-    second: dragon landing_1625x1031 copy_10
+      213: -114854954328335756
+    second: dragon landing_1024x716_10
   - first:
-      213: 5465511505847358586
-    second: dragon landing_1625x1031 copy_11
+      213: 640090631835142138
+    second: dragon landing_1024x716_11
   - first:
-      213: 8033998497902214775
-    second: dragon landing_1625x1031 copy_12
+      213: 2341493782917305284
+    second: dragon landing_1024x716_12
   - first:
-      213: -4612957959815931501
-    second: dragon landing_1625x1031 copy_13
+      213: 8092218680846233344
+    second: dragon landing_1024x716_13
   - first:
-      213: -9009727489975241459
-    second: dragon landing_1625x1031 copy_14
+      213: -3270557458247249523
+    second: dragon landing_1024x716_14
   - first:
-      213: 4554919225520026612
-    second: dragon landing_1625x1031 copy_15
+      213: -3007368484679511970
+    second: dragon landing_1024x716_15
   - first:
-      213: -8980334205317625910
-    second: dragon landing_1625x1031 copy_16
+      213: -7773123375635944625
+    second: dragon landing_1024x716_16
   - first:
-      213: -6431983803909609136
-    second: dragon landing_1625x1031 copy_17
+      213: -8252276740607509634
+    second: dragon landing_1024x716_17
   - first:
-      213: 6421899636761522301
-    second: dragon landing_1625x1031 copy_18
+      213: 573207843688259231
+    second: dragon landing_1024x716_18
   - first:
-      213: 6956295877601388874
-    second: dragon landing_1625x1031 copy_19
+      213: 4929270934650831794
+    second: dragon landing_1024x716_19
   - first:
-      213: -3719342588797605219
-    second: dragon landing_1625x1031 copy_20
+      213: 196179213801124352
+    second: dragon landing_1024x716_20
   - first:
-      213: -6748821821208798840
-    second: dragon landing_1625x1031 copy_21
+      213: 9071320063487386533
+    second: dragon landing_1024x716_21
+  - first:
+      213: -7906366455410368664
+    second: dragon landing_1024x716_22
+  - first:
+      213: -6453611602130940764
+    second: dragon landing_1024x716_23
+  - first:
+      213: 9191870622844296578
+    second: dragon landing_1024x716_24
+  - first:
+      213: 8455262284692449306
+    second: dragon landing_1024x716_25
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -172,13 +184,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_0
+      name: dragon landing_1024x716_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 4124
-        width: 1625
-        height: 1031
+        y: 2864
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -186,20 +198,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 61e7138b05515c14cb86c3cbc996cc59
-      internalID: 2496404943208203739
+      spriteID: e6a837b23627e2f4bb24536a6c5c4332
+      internalID: 2208147314559205761
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_1
+      name: dragon landing_1024x716_1
       rect:
         serializedVersion: 2
-        x: 1625
-        y: 4124
-        width: 1625
-        height: 1031
+        x: 1024
+        y: 2864
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -207,20 +219,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: daa5bbcbac4bce846baafe4c7ba9a191
-      internalID: -8588651682649343642
+      spriteID: 5a142bfbb46b0be40af1ff505fbef5a6
+      internalID: 6552247810620379591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_2
+      name: dragon landing_1024x716_2
       rect:
         serializedVersion: 2
-        x: 3250
-        y: 4124
-        width: 1625
-        height: 1031
+        x: 2048
+        y: 2864
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,20 +240,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 79a2c337e3abfd7449ccfe84b96d024f
-      internalID: 727473270483474335
+      spriteID: 431b0c78ae5ed1440af735c4d57d3132
+      internalID: -8037199938736039259
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_3
+      name: dragon landing_1024x716_3
       rect:
         serializedVersion: 2
-        x: 4875
-        y: 4124
-        width: 1625
-        height: 1031
+        x: 3072
+        y: 2864
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,20 +261,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e687e443cae50b546b9fbe30a0ba9323
-      internalID: -3162691462951208931
+      spriteID: 0a6e506660536b54ab5dd4c0400339ff
+      internalID: 5235769204365851440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_4
+      name: dragon landing_1024x716_4
       rect:
         serializedVersion: 2
-        x: 6500
-        y: 4124
-        width: 1625
-        height: 1031
+        x: 4096
+        y: 2864
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -270,20 +282,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1cc455961a1bd4a418cf7240e81c2866
-      internalID: -7531834048392369241
+      spriteID: 605868a2da8c13444b89573386961dfd
+      internalID: 6511046126069454397
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_5
+      name: dragon landing_1024x716_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 3093
-        width: 1625
-        height: 1031
+        x: 5120
+        y: 2864
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,104 +303,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1664357813ef289479c3da6dd16b2177
-      internalID: -7701300595796695645
+      spriteID: 499c0c0fac645974287a72551e536dae
+      internalID: -3223756100328157807
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_6
-      rect:
-        serializedVersion: 2
-        x: 1625
-        y: 3093
-        width: 1625
-        height: 1031
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 98696bfbcbc7fcb499a0b6aa49f8fad6
-      internalID: 9062698129376966113
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_7
-      rect:
-        serializedVersion: 2
-        x: 3250
-        y: 3093
-        width: 1625
-        height: 1031
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 649e8c9fad27eff429e8e79fda7b58be
-      internalID: 286166029932644100
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_8
-      rect:
-        serializedVersion: 2
-        x: 4875
-        y: 3093
-        width: 1625
-        height: 1031
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 23eb6898acb2ace48ad79cc746a860a2
-      internalID: 5364516598039442961
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_9
-      rect:
-        serializedVersion: 2
-        x: 6500
-        y: 3093
-        width: 1625
-        height: 1031
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d90051cb74131864c825bf13cfd39ef0
-      internalID: 6475222645182316236
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_10
+      name: dragon landing_1024x716_6
       rect:
         serializedVersion: 2
         x: 0
-        y: 2062
-        width: 1625
-        height: 1031
+        y: 2148
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -396,20 +324,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: efda9fe739ef074438a77f31407af557
-      internalID: 5256325892971630906
+      spriteID: 7edc759cc5004de4bb27cea8246554a9
+      internalID: -6421857949914811448
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_11
+      name: dragon landing_1024x716_7
       rect:
         serializedVersion: 2
-        x: 1625
-        y: 2062
-        width: 1625
-        height: 1031
+        x: 1024
+        y: 2148
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -417,20 +345,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b9ff788a1561794094847fd27abadb5
-      internalID: 5465511505847358586
+      spriteID: 2f8e5d2bdddae7847a18dbfc3f036be4
+      internalID: 8330923497113711814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_12
+      name: dragon landing_1024x716_8
       rect:
         serializedVersion: 2
-        x: 3250
-        y: 2062
-        width: 1625
-        height: 1031
+        x: 2048
+        y: 2148
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -438,20 +366,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f12d141246467ef4d87f6551aafa00cc
-      internalID: 8033998497902214775
+      spriteID: 1cf6f530d44bbc444868e4d8b04b568a
+      internalID: 3612037058090593903
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_13
+      name: dragon landing_1024x716_9
       rect:
         serializedVersion: 2
-        x: 4875
-        y: 2062
-        width: 1625
-        height: 1031
+        x: 3072
+        y: 2148
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -459,20 +387,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4ffbfc8f7fbaa554684b9b9116a1b3e6
-      internalID: -4612957959815931501
+      spriteID: c915400fb29b5ba458d8d95ec98fe5c0
+      internalID: 1788294710785631100
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_14
+      name: dragon landing_1024x716_10
       rect:
         serializedVersion: 2
-        x: 6500
-        y: 2062
-        width: 1625
-        height: 1031
+        x: 4096
+        y: 2148
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -480,20 +408,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d32ca27817025b4bb6f1f35c8129cb9
-      internalID: -9009727489975241459
+      spriteID: 3a111da332f9f9d40a346a01aa3bd1be
+      internalID: -114854954328335756
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_15
+      name: dragon landing_1024x716_11
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 2148
+        width: 1024
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab2c1b621edc67348b206b716dd2af9c
+      internalID: 640090631835142138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1024x716_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 1031
-        width: 1625
-        height: 1031
+        y: 1432
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -501,20 +450,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b1cadfb68d94bd047a7efd9211aaa195
-      internalID: 4554919225520026612
+      spriteID: 3b014d3410233af45879ae6ec5dd9036
+      internalID: 2341493782917305284
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_16
+      name: dragon landing_1024x716_13
       rect:
         serializedVersion: 2
-        x: 1625
-        y: 1031
-        width: 1625
-        height: 1031
+        x: 1024
+        y: 1432
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -522,20 +471,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b5606dec37ff5f46a95fb2782098d17
-      internalID: -8980334205317625910
+      spriteID: b0129b46ce7219f4c8d5ee2661b90c1b
+      internalID: 8092218680846233344
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_17
+      name: dragon landing_1024x716_14
       rect:
         serializedVersion: 2
-        x: 3250
-        y: 1031
-        width: 1625
-        height: 1031
+        x: 2048
+        y: 1432
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -543,20 +492,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d43536d5712487b4288e5a7d680076cc
-      internalID: -6431983803909609136
+      spriteID: 31c7eafc428cb494aa0d85beea830ac0
+      internalID: -3270557458247249523
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_18
+      name: dragon landing_1024x716_15
       rect:
         serializedVersion: 2
-        x: 4875
-        y: 1031
-        width: 1625
-        height: 1031
+        x: 3072
+        y: 1432
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -564,20 +513,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 569a9b77c450e6f439daffec6e676803
-      internalID: 6421899636761522301
+      spriteID: 94048c36b8216764097aacd552759f1a
+      internalID: -3007368484679511970
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_19
+      name: dragon landing_1024x716_16
       rect:
         serializedVersion: 2
-        x: 6500
-        y: 1031
-        width: 1625
-        height: 1031
+        x: 4096
+        y: 1432
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -585,20 +534,167 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 885c4e1e8f0f9af48854b71418499436
-      internalID: 6956295877601388874
+      spriteID: f93e668c0ac2fba409588168acc72176
+      internalID: -7773123375635944625
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_20
+      name: dragon landing_1024x716_17
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1432
+        width: 1024
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f940e07e140e5394f93259f086e7fb72
+      internalID: -8252276740607509634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1024x716_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 716
+        width: 1024
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f5d1d71ffb149458e4bad53efc7b4a
+      internalID: 573207843688259231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1024x716_19
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 716
+        width: 1024
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b98ffec22ebe4418dc47479dd8dc74
+      internalID: 4929270934650831794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1024x716_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 716
+        width: 1024
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03aaa91a35df4024789d28e45d63ef13
+      internalID: 196179213801124352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1024x716_21
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 716
+        width: 1024
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2542b823106b542ac79f6fcedc4e2a
+      internalID: 9071320063487386533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1024x716_22
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 716
+        width: 1024
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61ff814c4030354b9d36a886bb8fffd
+      internalID: -7906366455410368664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1024x716_23
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 716
+        width: 1024
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb606892aef16446b985bd0617b36cd
+      internalID: -6453611602130940764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon landing_1024x716_24
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1625
-        height: 1031
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -606,20 +702,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5193a8e184e5852459a85a34d0ef9263
-      internalID: -3719342588797605219
+      spriteID: 0e05ed8dfd013794cb3d30cdb6592b79
+      internalID: 9191870622844296578
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon landing_1625x1031 copy_21
+      name: dragon landing_1024x716_25
       rect:
         serializedVersion: 2
-        x: 1625
+        x: 1024
         y: 0
-        width: 1625
-        height: 1031
+        width: 1024
+        height: 716
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -627,8 +723,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dd174ce2d87235b49917bf93e0230d7a
-      internalID: -6748821821208798840
+      spriteID: dbbaf7d2f22cda340ad420cca534cb2c
+      internalID: 8455262284692449306
       vertices: []
       indices: 
       edges: []
@@ -636,7 +732,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 83be53618a2d6d54d8cf18b9f67bfb45
+    spriteID: 85d0af956b5830748a43465041182f24
     internalID: 0
     vertices: []
     indices: 
