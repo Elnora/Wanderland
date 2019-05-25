@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: 08ec74142382fd74596ca973e0b908cd
+guid: 8b082b23e296c7c49be9d3febefd0ffa
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7325333812935819706
-    second: dragon idle_1024x716_0
+      213: 5779831716399348414
+    second: dragon idle_700x512_0
   - first:
-      213: -297291148284560713
-    second: dragon idle_1024x716_1
+      213: -7503890127668402582
+    second: dragon idle_700x512_1
   - first:
-      213: 2724709893981583274
-    second: dragon idle_1024x716_2
+      213: -4991972578828427226
+    second: dragon idle_700x512_2
   - first:
-      213: -1677949486643745234
-    second: dragon idle_1024x716_3
+      213: 7552706915080507017
+    second: dragon idle_700x512_3
   - first:
-      213: -901491295948647413
-    second: dragon idle_1024x716_4
+      213: 8426158573089165237
+    second: dragon idle_700x512_4
   - first:
-      213: -2389580406948606400
-    second: dragon idle_1024x716_5
+      213: -1226784598995422737
+    second: dragon idle_700x512_5
   - first:
-      213: 4546063197965754137
-    second: dragon idle_1024x716_6
+      213: 7991106304038636498
+    second: dragon idle_700x512_6
   - first:
-      213: -6739849736844092449
-    second: dragon idle_1024x716_7
+      213: 4805488791215046090
+    second: dragon idle_700x512_7
   - first:
-      213: 3265009815041343071
-    second: dragon idle_1024x716_8
+      213: 7899338425990622656
+    second: dragon idle_700x512_8
   - first:
-      213: 1603833135061869613
-    second: dragon idle_1024x716_9
+      213: 1589121480541804338
+    second: dragon idle_700x512_9
   - first:
-      213: 4906825417977183145
-    second: dragon idle_1024x716_10
+      213: -4274445317788243184
+    second: dragon idle_700x512_10
   - first:
-      213: 8966937810329297673
-    second: dragon idle_1024x716_11
+      213: -8574475003820563517
+    second: dragon idle_700x512_11
   - first:
-      213: 1028632443851519895
-    second: dragon idle_1024x716_12
+      213: -7032016855531903757
+    second: dragon idle_700x512_12
   - first:
-      213: 1084285878813825723
-    second: dragon idle_1024x716_13
+      213: 3651714890094215455
+    second: dragon idle_700x512_13
   - first:
-      213: -6162066807178151331
-    second: dragon idle_1024x716_14
+      213: -6820489970297687930
+    second: dragon idle_700x512_14
   - first:
-      213: 4269043359552889167
-    second: dragon idle_1024x716_15
+      213: 9024879627119205421
+    second: dragon idle_700x512_15
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -139,28 +139,17 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: dragon idle_1024x716_0
+      name: dragon idle_700x512_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 2148
-        width: 1024
-        height: 716
+        y: 1536
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +157,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 003ff63190c552e4d825c121ca9a7007
-      internalID: 7325333812935819706
+      spriteID: d0494a2b5adfebc42a69cfc19c46aa30
+      internalID: 5779831716399348414
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_1
+      name: dragon idle_700x512_1
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 2148
-        width: 1024
-        height: 716
+        x: 700
+        y: 1536
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +178,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 46c37cf80c3ce744bb4a99db17fc073c
-      internalID: -297291148284560713
+      spriteID: 41d582a1def3d604f8b42580b1f17764
+      internalID: -7503890127668402582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_2
+      name: dragon idle_700x512_2
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 2148
-        width: 1024
-        height: 716
+        x: 1400
+        y: 1536
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +199,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0587290bfb897e34f93e43a250758b1c
-      internalID: 2724709893981583274
+      spriteID: 1b02dc9f7013d8f448ac41f2da61e211
+      internalID: -4991972578828427226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_3
+      name: dragon idle_700x512_3
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 2148
-        width: 1024
-        height: 716
+        x: 2100
+        y: 1536
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,104 +220,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c060d62bcac9a294d8b2a0f551a19458
-      internalID: -1677949486643745234
+      spriteID: d5b3093927aa8d848b42098bf1b48a41
+      internalID: 7552706915080507017
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1432
-        width: 1024
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26487a856219f934db14ed154c97942f
-      internalID: -901491295948647413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dragon idle_1024x716_5
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 1432
-        width: 1024
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4705adb3ad7eb054790f198c14d44e9b
-      internalID: -2389580406948606400
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dragon idle_1024x716_6
-      rect:
-        serializedVersion: 2
-        x: 2048
-        y: 1432
-        width: 1024
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00db4c99f009b534980e80a7da047344
-      internalID: 4546063197965754137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dragon idle_1024x716_7
-      rect:
-        serializedVersion: 2
-        x: 3072
-        y: 1432
-        width: 1024
-        height: 716
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eaecb09aed4aa2c479f84ec144328b65
-      internalID: -6739849736844092449
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: dragon idle_1024x716_8
+      name: dragon idle_700x512_4
       rect:
         serializedVersion: 2
         x: 0
-        y: 716
-        width: 1024
-        height: 716
+        y: 1024
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -336,20 +241,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 373b454d5f8a7c3479d9e15b97397b81
-      internalID: 3265009815041343071
+      spriteID: c8c76fdc58c00e64a9ea6f680bebbb79
+      internalID: 8426158573089165237
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_9
+      name: dragon idle_700x512_5
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 716
-        width: 1024
-        height: 716
+        x: 700
+        y: 1024
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,20 +262,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4db91e39332ea64b8560744543a016a
-      internalID: 1603833135061869613
+      spriteID: b0cf16ca730cbf849b362309c52d7dc5
+      internalID: -1226784598995422737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_10
+      name: dragon idle_700x512_6
       rect:
         serializedVersion: 2
-        x: 2048
-        y: 716
-        width: 1024
-        height: 716
+        x: 1400
+        y: 1024
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -378,20 +283,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 016af9f85c10d3145a793794316e001a
-      internalID: 4906825417977183145
+      spriteID: 27f5522ec10f1144798d10e2e538a7b2
+      internalID: 7991106304038636498
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_11
+      name: dragon idle_700x512_7
       rect:
         serializedVersion: 2
-        x: 3072
-        y: 716
-        width: 1024
-        height: 716
+        x: 2100
+        y: 1024
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -399,20 +304,104 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afb2493123ed78f40a1c1c8f5a63d3f9
-      internalID: 8966937810329297673
+      spriteID: f044b11d8e36bf74da3dd6b0ee72110b
+      internalID: 4805488791215046090
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_12
+      name: dragon idle_700x512_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 700
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85edadf1d4203fb44b89adb2c85074ee
+      internalID: 7899338425990622656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon idle_700x512_9
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 512
+        width: 700
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59065dbf9bf04194da70ea34dacdb6ca
+      internalID: 1589121480541804338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon idle_700x512_10
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 512
+        width: 700
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da18fe5a41d3a9648b96641ac3cedc25
+      internalID: -4274445317788243184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon idle_700x512_11
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 512
+        width: 700
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c658ebda31ded94ab4c0239735531bd
+      internalID: -8574475003820563517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dragon idle_700x512_12
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1024
-        height: 716
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,20 +409,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69d80d432f7e32b469bc3c23d11a8907
-      internalID: 1028632443851519895
+      spriteID: aecafdfd695250947aa7cae122b80f4c
+      internalID: -7032016855531903757
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_13
+      name: dragon idle_700x512_13
       rect:
         serializedVersion: 2
-        x: 1024
+        x: 700
         y: 0
-        width: 1024
-        height: 716
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -441,20 +430,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e6ef20fc1cb94342b5442e18840ec5e
-      internalID: 1084285878813825723
+      spriteID: 016fcc6472b7c84459a018dcb46a8d6f
+      internalID: 3651714890094215455
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_14
+      name: dragon idle_700x512_14
       rect:
         serializedVersion: 2
-        x: 2048
+        x: 1400
         y: 0
-        width: 1024
-        height: 716
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -462,20 +451,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32aabf888798866438745750edd55f13
-      internalID: -6162066807178151331
+      spriteID: ec51bc8438ee6324d954290d84a06fc8
+      internalID: -6820489970297687930
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: dragon idle_1024x716_15
+      name: dragon idle_700x512_15
       rect:
         serializedVersion: 2
-        x: 3072
+        x: 2100
         y: 0
-        width: 1024
-        height: 716
+        width: 700
+        height: 512
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -483,8 +472,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 575cf66535e5ee54588ce9842ffae40c
-      internalID: 4269043359552889167
+      spriteID: 4771086538ce2464781f5dd0755f28c2
+      internalID: 9024879627119205421
       vertices: []
       indices: 
       edges: []
@@ -492,7 +481,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 4eba51fc7dfdbb64f972a7a6f771a282
+    spriteID: 18839c0ea89d4834aa3334b577c3bc01
     internalID: 0
     vertices: []
     indices: 
