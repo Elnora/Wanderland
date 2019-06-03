@@ -13,7 +13,13 @@ MonoBehaviour:
   m_Name: PlayMakerGlobals
   m_EditorClassIdentifier: 
   variables:
-    floatVariables: []
+    floatVariables:
+    - useVariable: 1
+      name: Scene01 Finish array
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: 0
     intVariables: []
     boolVariables: []
     stringVariables: []
@@ -26,20 +32,7 @@ MonoBehaviour:
     objectVariables: []
     materialVariables: []
     textureVariables: []
-    arrayVariables:
-    - useVariable: 1
-      name: Scene01 Finish array
-      tooltip: 
-      showInInspector: 0
-      networkSync: 0
-      type: 0
-      objectTypeName: UnityEngine.Object
-      floatValues: []
-      intValues: 
-      boolValues: 
-      stringValues: []
-      vector4Values: []
-      objectReferences: []
+    arrayVariables: []
     enumVariables: []
     categories:
     - 
