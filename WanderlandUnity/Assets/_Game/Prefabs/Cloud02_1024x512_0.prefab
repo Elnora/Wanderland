@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 6477168483411960347}
   - component: {fileID: 6477168483411960346}
   - component: {fileID: 1990068319}
+  - component: {fileID: 2253149940109445755}
   m_Layer: 0
   m_Name: Cloud02_1024x512_0
-  m_TagString: Untagged
+  m_TagString: Environment
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -169,7 +170,7 @@ MonoBehaviour:
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: -0.5
+          value: -0.2
         - useVariable: 1
           name: 
           tooltip: 
@@ -215,7 +216,10 @@ MonoBehaviour:
         - fixedUpdate
         paramDataPos: 00000000000000000000000001000000020000000000000004000000050000000600000007000000
         paramByteDataSize: 00000000000000000000000000000000000000000400000001000000010000000100000001000000
-    events: []
+    events:
+    - name: FINISHED
+      isSystemEvent: 1
+      isGlobal: 0
     globalTransitions: []
     variables:
       floatVariables: []
@@ -280,3 +284,29 @@ MonoBehaviour:
     handleAnimatorIK: 0
   fsmTemplate: {fileID: 0}
   eventHandlerComponentsAdded: 0
+--- !u!61 &2253149940109445755
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6477168483411960345}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0.24}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 3.6914062, y: 1.3242188}
+    newSize: {x: 3.6914062, y: 1.3242188}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 3.6914062, y: 1.05}
+  m_EdgeRadius: 0
