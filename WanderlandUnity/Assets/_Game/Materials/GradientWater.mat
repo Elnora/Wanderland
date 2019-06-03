@@ -77,7 +77,7 @@ Material:
     - Boolean_DB80AC9D: 1
     - Vector1_3A7C91B7: 1
     - Vector1_3ED05E69: -1.31
-    - Vector1_490F72F5: 0.43
+    - Vector1_490F72F5: 0.33
     - Vector1_56875465: 0
     - Vector1_BE890405: -3.47
     - Vector1_D51913B: 1
@@ -92,13 +92,14 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _Saturation: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
-    - Color_69383120: {r: 0.13737096, g: 0.5943396, b: 0.57046807, a: 1}
+    - Color_69383120: {r: 0.08699717, g: 0.16037738, b: 0.15598711, a: 1}
     - Color_7D15B091: {r: 0.44980422, g: 0.68491995, b: 0.7169812, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
