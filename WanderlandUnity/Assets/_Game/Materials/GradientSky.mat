@@ -83,11 +83,13 @@ Material:
     m_Floats:
     - Boolean_6822EA94: 0
     - Boolean_DB80AC9D: 0
+    - Vector1_30079D4F: 2.29
     - Vector1_3A7C91B7: 1
     - Vector1_3ED05E69: 1.23
     - Vector1_490F72F5: 0
     - Vector1_56875465: 0.81
     - Vector1_85518AD9: 2.64
+    - Vector1_98407E56: 1
     - Vector1_A1E7908A: 0.88
     - Vector1_BE890405: 0
     - Vector1_C7F51958: 2.1
@@ -108,6 +110,7 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _TurnBW: 0.0019227266
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
