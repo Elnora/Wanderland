@@ -91,11 +91,11 @@ Material:
     - Vector1_85518AD9: 2.64
     - Vector1_98407E56: 1
     - Vector1_A1E7908A: 0.88
-    - Vector1_BE890405: 0
+    - Vector1_BE890405: -1.1
     - Vector1_C7F51958: 2.1
     - Vector1_D51913B: 1
     - Vector1_F56459AF: 1
-    - Vector1_FF5F2DF6: 0.35
+    - Vector1_FF5F2DF6: 0.21
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -107,10 +107,11 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _Saturation: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TurnBW: 0.0077520013
+    - _TurnBW: 0.008968055
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:

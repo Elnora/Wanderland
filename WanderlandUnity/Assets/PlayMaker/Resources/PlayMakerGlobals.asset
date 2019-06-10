@@ -25,7 +25,7 @@ MonoBehaviour:
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 1
+      value: 0.1
     - useVariable: 1
       name: no of interactable objects
       tooltip: 
