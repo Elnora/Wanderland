@@ -44,6 +44,12 @@ MonoBehaviour:
       showInInspector: 0
       networkSync: 0
       value: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+    - useVariable: 1
+      name: ActiveColor
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0, g: 0, b: 0, a: 1}
     rectVariables: []
     quaternionVariables: []
     gameObjectVariables: []
@@ -54,5 +60,5 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 00000000000000000000000000000000
+    variableCategoryIDs: 0000000000000000000000000000000000000000
   events: []

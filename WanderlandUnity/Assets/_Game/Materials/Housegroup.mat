@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Housegroup
-  m_Shader: {fileID: -6465566751694194690, guid: 2bb24a51363ce264497bc2693f0ddb9c,
+  m_Shader: {fileID: -6465566751694194690, guid: d85c64908568d0647abfa5c6e65f6853,
     type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
@@ -20,6 +20,14 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - Texture2D_54793791:
+        m_Texture: {fileID: 2800000, guid: c350b24b4cd10d6488852082d884f8c8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_680AD5BA:
+        m_Texture: {fileID: 2800000, guid: cbe2609e83472c1448d452b5c3ef5828, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
@@ -54,6 +62,8 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_817269CB: 0
+    - Vector1_84818B4C: 0
+    - Vector1_A0CBDABA: 1
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -76,11 +86,14 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
+    - _saturation: 0
     m_Colors:
     - _BaseColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HighlightColor: {r: 1, g: 1, b: 1, a: 0}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
+    - _color: {r: 1, g: 0.48656532, b: 0.4764151, a: 1}
 --- !u!114 &7185679416892700595
 MonoBehaviour:
   m_ObjectHideFlags: 11

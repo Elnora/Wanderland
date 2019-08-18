@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: mnt01
+  m_Name: Pier01
   m_Shader: {fileID: -6465566751694194690, guid: d85c64908568d0647abfa5c6e65f6853,
     type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
@@ -21,7 +21,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - Texture2D_54793791:
-        m_Texture: {fileID: 2800000, guid: 29159eb24ad6d734b8d7c5a55af12965, type: 3}
+        m_Texture: {fileID: 2800000, guid: 1bc97d511fe4e5740bb8d152ed3e3e10, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - Texture2D_680AD5BA:
@@ -37,17 +37,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_84818B4C: 1
-    - Vector1_A0CBDABA: 1
+    - Vector1_84818B4C: 0
     - Vector1_E3165821: -1.79
     - _saturation: 0
     m_Colors:
-    - Color_4997D744: {r: 0.86496484, g: 1, b: 0.6556604, a: 0}
     - Color_846E7285: {r: 0.6745098, g: 0.6901961, b: 0.90196085, a: 0}
     - Color_D0F3EB51: {r: 1, g: 0, b: 0, a: 0}
     - _Col: {r: 1, g: 1, b: 1, a: 0}
     - _HighlightColor: {r: 0.7607844, g: 0.7254902, b: 0.6901961, a: 0}
-    - _color: {r: 1, g: 0.48656532, b: 0.4764151, a: 1}
+    - _color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
 --- !u!114 &2684309191744644905
 MonoBehaviour:
   m_ObjectHideFlags: 11
