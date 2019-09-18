@@ -25,7 +25,7 @@ MonoBehaviour:
       tooltip: 
       showInInspector: 0
       networkSync: 0
-      value: 1
+      value: 0.1
     - useVariable: 1
       name: no of interactable objects
       tooltip: 
@@ -37,7 +37,19 @@ MonoBehaviour:
     stringVariables: []
     vector2Variables: []
     vector3Variables: []
-    colorVariables: []
+    colorVariables:
+    - useVariable: 1
+      name: PressedButton
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
+    - useVariable: 1
+      name: ActiveColor
+      tooltip: 
+      showInInspector: 0
+      networkSync: 0
+      value: {r: 0, g: 0, b: 0, a: 1}
     rectVariables: []
     quaternionVariables: []
     gameObjectVariables: []
@@ -48,5 +60,5 @@ MonoBehaviour:
     enumVariables: []
     categories:
     - 
-    variableCategoryIDs: 000000000000000000000000
+    variableCategoryIDs: 0000000000000000000000000000000000000000
   events: []
