@@ -8,8 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: mnt02
-  m_Shader: {fileID: -6465566751694194690, guid: d85c64908568d0647abfa5c6e65f6853,
-    type: 3}
+  m_Shader: {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -43,6 +42,7 @@ Material:
     - Color_846E7285: {r: 0.6745098, g: 0.6901961, b: 0.90196085, a: 0}
     - Color_D0F3EB51: {r: 1, g: 0, b: 0, a: 0}
     - _Col: {r: 1, g: 1, b: 1, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _HighlightColor: {r: 0.7607844, g: 0.7254902, b: 0.6901961, a: 0}
     - _color: {r: 0.9019608, g: 0.9019608, b: 0.9019608, a: 1}
 --- !u!114 &2684309191744644905
