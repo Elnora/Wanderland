@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: GradientWater
-  m_Shader: {fileID: 10755, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 10752, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -71,6 +71,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - Boolean_1B3F3066: 1
     - Boolean_DB80AC9D: 1
@@ -80,6 +84,7 @@ Material:
     - Vector1_56875465: 0
     - Vector1_BE890405: -3.47
     - Vector1_D51913B: 1
+    - _BottomPos: -0.43
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -95,10 +100,15 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+    - _TopPos: -0.68
+    - _TopPower: 1.27
     - _UVSec: 0
     - _ZWrite: 1
+    - __dirty: 0
     m_Colors:
     - Color_69383120: {r: 0.08699717, g: 0.16037738, b: 0.15598711, a: 1}
     - Color_7D15B091: {r: 0.44980422, g: 0.68491995, b: 0.7169812, a: 1}
+    - _Bottom: {r: 1, g: 0.9735684, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Top: {r: 1, g: 0, b: 0, a: 0}
