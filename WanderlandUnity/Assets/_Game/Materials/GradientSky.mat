@@ -102,6 +102,8 @@ Material:
     - Vector1_F56459AF: 1.5
     - Vector1_FF5F2DF6: 1
     - _BottomPos: -0.16
+    - _BottomPosition: 0.31
+    - _BottomPower: -0.39
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
@@ -117,8 +119,9 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _TopPos: -0.03
-    - _TopPower: 0.8
+    - _TopPos: -0.5
+    - _TopPosition: -0.5
+    - _TopPower: 1
     - _TurnBW: 1
     - _UVSec: 0
     - _ZWrite: 1
@@ -131,9 +134,12 @@ Material:
     - Color_93F96F78: {r: 0.4466999, g: 0.25720897, b: 0.6415094, a: 0}
     - Color_A31FBE8B: {r: 0.26406196, g: 0.8113208, b: 0.7445818, a: 0}
     - Color_E109BFD3: {r: 1, g: 0.8788657, b: 0.3915094, a: 0}
-    - _Bottom: {r: 0.6745283, g: 0.8886923, b: 1, a: 0}
+    - _Bottom: {r: 1, g: 0.94630617, b: 0.4292453, a: 0}
+    - _BottomColor: {r: 1, g: 0.94630617, b: 0.4292453, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Color0: {r: 1, g: 0.94630617, b: 0.4292453, a: 0}
+    - _Color1: {r: 0, g: 0.95238066, b: 1, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HighlightColor: {r: 0.9622642, g: 0.8929227, b: 0.70354223, a: 0}
     - _Top: {r: 0.6114721, g: 0.8464046, b: 0.8584906, a: 0}
-    - _TopColor: {r: 1, g: 0.72253054, b: 0.41037738, a: 0}
+    - _TopColor: {r: 0, g: 0.95238066, b: 1, a: 0}
