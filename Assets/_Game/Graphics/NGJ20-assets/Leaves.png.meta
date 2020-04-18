@@ -20,6 +20,12 @@ TextureImporter:
   - first:
       213: 2386680483698164931
     second: Leaves_5
+  - first:
+      213: 827997436098469290
+    second: Leaves_6
+  - first:
+      213: -1711180651931834051
+    second: Leaves_7
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -63,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 256
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -78,7 +84,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -90,7 +96,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 1
@@ -118,7 +124,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5f75575ba02f7e84ea874c62757328c6
+      spriteID: d9b9afb9ba800f54c9293fbba2e41d08
       internalID: 3664983861114067704
       vertices: []
       indices: 
@@ -139,7 +145,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dfda993998858c4f8add3354a0beeec
+      spriteID: c7beda992d701c140b50f1d8b28dd2ad
       internalID: -5999245757173483519
       vertices: []
       indices: 
@@ -160,7 +166,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7162f23c252cfce408ad70ef4525e837
+      spriteID: f44849ee01c3d294296aba501a7ad77a
       internalID: -8532703326110650893
       vertices: []
       indices: 
@@ -181,7 +187,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ceeb94ce4832462478942974ec92b036
+      spriteID: f0f4e64203c14504b914de19ffba8748
       internalID: 83947755850914152
       vertices: []
       indices: 
@@ -202,7 +208,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 215c3cd34b111ba43a8c224bef07de39
+      spriteID: 150fe7bb0530e0542815ef25548c23c5
       internalID: 4689631791232870842
       vertices: []
       indices: 
@@ -223,8 +229,50 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c2395bb0be39a9d4c9a4ee7894dc76cb
+      spriteID: b25789568e8c00645ac8cb8c7ae4135d
       internalID: 2386680483698164931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc4b4c17faf41943b7365138fcc622d
+      internalID: 827997436098469290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Leaves_7
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f71810f8efd5bb499dbaa50d66c9302
+      internalID: -1711180651931834051
       vertices: []
       indices: 
       edges: []

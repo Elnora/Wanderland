@@ -45,7 +45,7 @@ Shader "Sprite"
 }
 /*ASEBEGIN
 Version=17000
--1920;0;1920;1019;979;557;1;True;False
+2034;132;1371;798;904.5572;567.9003;1.3;True;False
 Node;AmplifyShaderEditor.SamplerNode;1;-471,-45;Float;True;Property;_TextureSample0;Texture Sample 0;0;0;Create;True;0;0;False;0;None;None;True;0;False;white;Auto;False;Object;-1;Auto;Texture2D;6;0;SAMPLER2D;;False;1;FLOAT2;0,0;False;2;FLOAT;0;False;3;FLOAT2;0,0;False;4;FLOAT2;0,0;False;5;FLOAT;1;False;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
 Node;AmplifyShaderEditor.ColorNode;6;-367,-387;Float;False;Property;_Color0;Color 0;1;0;Create;True;0;0;False;0;1,1,1,0;0,0,0,0;True;0;5;COLOR;0;FLOAT;1;FLOAT;2;FLOAT;3;FLOAT;4
 Node;AmplifyShaderEditor.SimpleMultiplyOpNode;7;-43,-249;Float;False;2;2;0;COLOR;0,0,0,0;False;1;COLOR;0,0,0,0;False;1;COLOR;0
@@ -54,4 +54,4 @@ WireConnection;7;0;6;0
 WireConnection;7;1;1;0
 WireConnection;0;2;7;0
 ASEEND*/
-//CHKSM=65143C7D90560807DB8DFDD43161136C4626C83B
+//CHKSM=8E5BA18B976E4E78E51564E62118BED12169D7D3
