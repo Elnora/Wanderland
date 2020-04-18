@@ -1,6 +1,6 @@
-WanderlandUnity/[Ll]ibrary/
-WanderlandUnity/[Tt]emp/
-WanderlandUnity/[Oo]bj/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
@@ -35,3 +35,13 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# Custom
+Assets/Playmaker
+Assets/Playmaker.meta
+Assets/net.fabrejean
+Assets/net.fabrejean.meta
+Assets/AmplifyShaderEditor/
+Assets/AmplifyShaderEditor.meta
+Assets/Gizmos
+Assets/Gizmos.meta
