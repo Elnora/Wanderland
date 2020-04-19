@@ -48,7 +48,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &879380705157925859
 Transform:
   m_ObjectHideFlags: 0
@@ -57,7 +57,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 879380705157925856}
   m_LocalRotation: {x: -0, y: -0, z: -0.98785645, w: 0.15536961}
-  m_LocalPosition: {x: -8.83, y: -3.18, z: -2}
+  m_LocalPosition: {x: -1.12, y: 0.44, z: -2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 879380704962285147}
@@ -78,7 +78,7 @@ ParticleSystem:
   ringBufferMode: 0
   ringBufferLoopRange: {x: 0, y: 1}
   looping: 1
-  prewarm: 1
+  prewarm: 0
   playOnAwake: 1
   useUnscaledTime: 0
   autoRandomSeed: 1
@@ -1334,9 +1334,9 @@ ParticleSystem:
       maxColor: {r: 1, g: 1, b: 1, a: 1}
       maxGradient:
         serializedVersion: 2
-        key0: {r: 0.4816661, g: 0.735137, b: 0.8301887, a: 1}
+        key0: {r: 0.4816661, g: 0.735137, b: 0.8301887, a: 0}
         key1: {r: 0.14901961, g: 0.19215688, b: 0.25882354, a: 1}
-        key2: {r: 0, g: 0, b: 0, a: 0}
+        key2: {r: 0, g: 0, b: 0, a: 1}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
@@ -1351,7 +1351,7 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 0
-        atime1: 65535
+        atime1: 3277
         atime2: 65535
         atime3: 65535
         atime4: 65535
@@ -1360,12 +1360,12 @@ ParticleSystem:
         atime7: 0
         m_Mode: 0
         m_NumColorKeys: 2
-        m_NumAlphaKeys: 2
+        m_NumAlphaKeys: 3
       minGradient:
         serializedVersion: 2
-        key0: {r: 0.3726415, g: 0.82377577, b: 1, a: 1}
+        key0: {r: 0.3726415, g: 0.82377577, b: 1, a: 0}
         key1: {r: 0.19215688, g: 0.32941177, b: 0.48235297, a: 1}
-        key2: {r: 0.14901961, g: 0.19215688, b: 0.25882354, a: 0}
+        key2: {r: 0.14901961, g: 0.19215688, b: 0.25882354, a: 1}
         key3: {r: 0, g: 0, b: 0, a: 0}
         key4: {r: 0, g: 0, b: 0, a: 0}
         key5: {r: 0, g: 0, b: 0, a: 0}
@@ -1380,7 +1380,7 @@ ParticleSystem:
         ctime6: 0
         ctime7: 0
         atime0: 0
-        atime1: 65535
+        atime1: 4241
         atime2: 65535
         atime3: 0
         atime4: 0
@@ -1389,7 +1389,7 @@ ParticleSystem:
         atime7: 0
         m_Mode: 0
         m_NumColorKeys: 2
-        m_NumAlphaKeys: 2
+        m_NumAlphaKeys: 3
   UVModule:
     serializedVersion: 2
     enabled: 1
