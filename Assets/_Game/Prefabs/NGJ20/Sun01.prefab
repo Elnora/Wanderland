@@ -578,11 +578,11 @@ MonoBehaviour:
           networkSync: 0
           value: 0
         - useVariable: 1
-          name: Feedback
+          name: FeedbackTime
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.3
+          value: 0.1
         - useVariable: 1
           name: 
           tooltip: 
@@ -596,11 +596,11 @@ MonoBehaviour:
           networkSync: 0
           value: 0
         - useVariable: 1
-          name: Feedback
+          name: FeedbackTime
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.3
+          value: 0.1
         fsmIntParams:
         - useVariable: 1
           name: 
@@ -778,7 +778,7 @@ MonoBehaviour:
             type: 3}
           - {fileID: 2563830078843611194, guid: 397700a70f8e6d74180574dca2f84087,
             type: 3}
-          - {fileID: 3948692468561989176, guid: efcccd06d1a325e49b44323d894612b8,
+          - {fileID: 5061592346722288972, guid: e4d227c5cf3a90a41bdf93792727f56e,
             type: 3}
         fsmEnumParams: []
         fsmFloatParams: []
@@ -1015,11 +1015,11 @@ MonoBehaviour:
         fsmEnumParams: []
         fsmFloatParams:
         - useVariable: 1
-          name: Feedback
+          name: FeedbackTime
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.3
+          value: 0.1
         - useVariable: 1
           name: 
           tooltip: 
@@ -1033,11 +1033,11 @@ MonoBehaviour:
           networkSync: 0
           value: 0
         - useVariable: 1
-          name: Feedback
+          name: FeedbackTime
           tooltip: 
           showInInspector: 0
           networkSync: 0
-          value: 0.3
+          value: 0.1
         fsmIntParams: []
         fsmBoolParams:
         - useVariable: 0
@@ -1110,11 +1110,11 @@ MonoBehaviour:
     variables:
       floatVariables:
       - useVariable: 1
-        name: Feedback
+        name: FeedbackTime
         tooltip: 
         showInInspector: 0
         networkSync: 0
-        value: 0.2
+        value: 0.1
       intVariables: []
       boolVariables: []
       stringVariables: []

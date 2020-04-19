@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 3221080678988265071}
   - component: {fileID: 3221080678988265064}
   - component: {fileID: 3221080678988265065}
+  - component: {fileID: 1292936537}
   m_Layer: 0
   m_Name: Cloud01
   m_TagString: Untagged
@@ -30,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 3221080678988265075}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.33, y: 12.35, z: 0}
-  m_LocalScale: {x: 0.64172, y: 0.64172, z: 0.64172}
+  m_LocalScale: {x: 0.31920436, y: 0.3192044, z: 0.3192044}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -83,7 +84,7 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
+  m_SpriteSortPoint: 1
 --- !u!114 &3221080678988265070
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -157,13 +158,25 @@ MonoBehaviour:
     events: []
     globalTransitions: []
     variables:
-      floatVariables: []
+      floatVariables:
+      - useVariable: 1
+        name: TimeToSpawn
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: 2
       intVariables: []
       boolVariables: []
       stringVariables: []
       vector2Variables: []
       vector3Variables: []
-      colorVariables: []
+      colorVariables:
+      - useVariable: 1
+        name: Color
+        tooltip: 
+        showInInspector: 0
+        networkSync: 0
+        value: {r: 0, g: 0, b: 0, a: 1}
       rectVariables: []
       quaternionVariables: []
       gameObjectVariables: []
@@ -174,7 +187,7 @@ MonoBehaviour:
       enumVariables: []
       categories:
       - 
-      variableCategoryIDs: 
+      variableCategoryIDs: 0000000000000000
     description: 
     docUrl: 
     showStateLabel: 0
@@ -184,7 +197,7 @@ MonoBehaviour:
     locked: 0
     manualUpdate: 0
     keepDelayedEventsOnStateExit: 0
-    preprocessed: 1
+    preprocessed: 0
     ExposedEvents: []
     RestartOnEnable: 1
     EnableDebugFlow: 0
@@ -748,3 +761,22 @@ PolygonCollider2D:
       - {x: 1.0799999, y: 0.66999996}
       - {x: 1.05, y: 0.68}
       - {x: 1.03, y: 0.65999997}
+--- !u!95 &1292936537
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3221080678988265075}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: fff79ab2414a3804d989d994c7def3f6, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0

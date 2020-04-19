@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(SpriteRenderer))]
 public class DragObject : MonoBehaviour
 {
 	bool dragging;
@@ -10,12 +11,18 @@ public class DragObject : MonoBehaviour
 
 	Vector3 offset;
 
+	SpriteRenderer spriteRenderer;
+
+	static int draggedSortingOrder = -1;
+	static DragObject draggedObject;
+
     // Start is called before the first frame update
     void Start()
     {
 		cam = Camera.main;
 
 		colliders = GetComponentsInChildren<Collider2D>();
+		spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
 	// Update is called once per frame
@@ -26,8 +33,13 @@ public class DragObject : MonoBehaviour
 
 		if (PositionInsideColliders(mouseWorldPos))
 		{
-			if (Input.GetMouseButtonDown(0))
+			if (Input.GetMouseButtonDown(0) && draggedSortingOrder < spriteRenderer.sortingOrder)
 			{
+				if (draggedObject != null)
+					draggedObject.dragging = false;
+
+				draggedObject = this;
+				draggedSortingOrder = spriteRenderer.sortingOrder;
 				offset = transform.position - mouseWorldPos;
 				dragging = true;
 			}
@@ -39,6 +51,7 @@ public class DragObject : MonoBehaviour
 
 			if (Input.GetMouseButtonUp(0))
 			{
+				draggedSortingOrder = -1;
 				dragging = false;
 			}
 		}
@@ -51,7 +64,7 @@ public class DragObject : MonoBehaviour
 			if (col.OverlapPoint(pos))
 				return true;
 		}
-		
+
 		return false;
 	}
 }
