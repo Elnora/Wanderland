@@ -6,6 +6,7 @@ TagManager:
   tags:
   - KillCollider
   - Environment
+  - dragable
   layers:
   - Default
   - TransparentFX

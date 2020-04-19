@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: HardLight
-  m_Shader: {fileID: 4800000, guid: 750b1d7e8696db04b82eace0a3eca395, type: 3}
+  m_Shader: {fileID: 4800000, guid: 561d8e03b7b512643a56ea49fe81198b, type: 3}
   m_ShaderKeywords: ETC1_EXTERNAL_ALPHA
   m_LightmapFlags: 0
   m_EnableInstancingVariants: 0
@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: fa4a397ac1374fc448ed378c2dcc922c, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TextureDecal:
@@ -36,14 +36,15 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _Cutoff: 0.5
     - _Float0: 1.29
     - _Float1: 11
-    - _Offset: 2
-    - _Speed: 0.3
+    - _Offset: 3
+    - _Speed: 1
     - _TextureIntensity: -1
     - __dirty: 0
     m_Colors:
     - _Color0: {r: 1, g: 0.87865055, b: 0.5613208, a: 0}
     - _Color01: {r: 1, g: 0.8986181, b: 0.48584908, a: 0}
-    - _Color02: {r: 0.28627455, g: 0.8611617, b: 1, a: 0}
+    - _Color02: {r: 1, g: 1, b: 1, a: 0}
     - _DecalColor: {r: 1, g: 0.5990566, b: 0.5990566, a: 0}
